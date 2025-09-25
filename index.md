@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+# Me and myself 
+
+### Welcome to my blog!
 ---
